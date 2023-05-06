@@ -29,6 +29,3 @@ And leave those trolls far behind.
 
 3. Visit a website and scroll down to load enough content, click the plugin icon.
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=github.com/QuchenFu/chrome-plugin-detoxer&type=Date)](https://star-history.com/#github.com/QuchenFu/chrome-plugin-detoxer&Date)
