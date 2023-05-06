@@ -20,7 +20,7 @@ Load enough content, don't be slow
 Click the plugin icon, see it shine
 And leave those trolls far behind.
 
-*ChatGPT*
+###*ChatGPT*###
 ```
 
 1. Get a [Perspective API](https://support.perspectiveapi.com/s/docs-get-started?language=en_US) key and paste in [corresponding place](https://github.com/QuchenFu/chrome-plugin-detoxer/blob/main/Detoxer/background.js#L3) in file [background.js](https://github.com/QuchenFu/chrome-plugin-detoxer/blob/main/Detoxer/background.js)
