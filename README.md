@@ -6,9 +6,7 @@
 
 This plugin is based on Perspective API.
 
-https://support.perspectiveapi.com/s/docs-get-started?language=en_US
-
-1. Get a perspective API key and paste in https://commentanalyzer.googleapis.com/v1alpha1/comments:analyze?key= in file background.js
+1. Get a [Perspective API](https://support.perspectiveapi.com/s/docs-get-started?language=en_US) key and paste in https://commentanalyzer.googleapis.com/v1alpha1/comments:analyze?key= in file background.js
 
 2. Intall the extension and pin it in chrome.
 
