@@ -4,6 +4,7 @@
 <img width="80" alt="fastaudio-2" src="https://user-images.githubusercontent.com/31392274/236587723-dd4d4654-874a-4d10-8c71-543fc8b4eba9.jpg">
 </p>
 
+```
 Behold this plugin, crafted with care
 Based on Perspective API, it's rare
 A shield to guard against trolls and woe
@@ -20,6 +21,7 @@ Click the plugin icon, see it shine
 And leave those trolls far behind.
 
 *ChatGPT*
+```
 
 1. Get a [Perspective API](https://support.perspectiveapi.com/s/docs-get-started?language=en_US) key and paste in [corresponding place](https://github.com/QuchenFu/chrome-plugin-detoxer/blob/main/Detoxer/background.js#L3) in file [background.js](https://github.com/QuchenFu/chrome-plugin-detoxer/blob/main/Detoxer/background.js)
 
