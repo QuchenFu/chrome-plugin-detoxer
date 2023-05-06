@@ -4,6 +4,22 @@
 <img width="80" alt="fastaudio-2" src="https://user-images.githubusercontent.com/31392274/236587723-dd4d4654-874a-4d10-8c71-543fc8b4eba9.jpg">
 </p>
 
+Infant Sorrow [Blake]
+---------------------
+
+My mother groaned, my father wept,
+Into the dangerous world I leapt.
+Helpless, naked, piping loud,
+Like a fiend hid in a cloud.
+
+Struggling in my father's hands,
+Striving against my swaddling bands,
+Bound and weary, I thought best,
+To sulk upon my mother's breast.
+
+*William Blake*
+
+
 Behold this plugin, crafted with care
 Based on Perspective API, it's rare
 A shield to guard against trolls and woe
