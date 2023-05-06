@@ -1,7 +1,7 @@
 # Love and Peace
 
 <p align="left">
-<img width="850" alt="fastaudio-2" src="https://user-images.githubusercontent.com/31392274/133123291-d57519ce-4096-42b4-828e-963c1c7af867.png">
+<img width="80" alt="fastaudio-2" src="https://user-images.githubusercontent.com/31392274/236587723-dd4d4654-874a-4d10-8c71-543fc8b4eba9.jpg">
 </p>
 
 This plugin is based on Perspective API.
