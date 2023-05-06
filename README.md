@@ -1,1 +1,1 @@
-# chrome-plugin-detoxer
+# Love and Peace
